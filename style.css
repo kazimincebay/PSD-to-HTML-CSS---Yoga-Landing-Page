@@ -1,0 +1,520 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:0px;
+	background-color:#ffffff;
+	
+	
+	
+	
+	
+}
+/* Header Kodları */
+
+.headermenu{
+	height:140px;
+	width:1440px;
+	
+}
+.logo{
+	margin-top:29px;
+	margin-left:86px;
+	float:left;
+
+}
+
+
+
+.menu{
+	
+	margin-top:64px;
+	list-style: none;
+	display: block;
+	float:right;
+}
+
+
+.menue{
+	display: inline;
+	color:#808080;
+	font-size:15pt;
+	margin-right:80px;
+}
+
+.header{
+	background-image:url("img/headersection.png");
+	height:749px;
+	width:1440px;
+	text-align:center;
+	
+	
+}
+
+.headerimage{
+	float:left;
+	margin-left:37px;
+	margin-top:90px;
+	
+}
+
+.headertitle{
+	float:right;
+	margin-right:280px;
+	margin-top:155px;
+	font-size:45pt;
+	color:#484f5b;
+	position:relative;
+}
+
+.headerparagraph{
+	float:right;
+	margin-top:380px;
+	font-size:17pt;
+	margin-right:115px;
+	margin-left:767px;
+	position: absolute;
+	color:#484f5b;
+	
+}
+
+.headerbutton{
+	float:right;
+	width:203px;
+	height:50px;
+background-color:#e6c8c3;
+	margin-top:549px;
+	margin-left:57px;
+	border:0px solid #e6c8c3;
+	position:absolute;
+}
+
+/* Body1 Section Codes*/
+
+.body1{
+	background-image: url("img/body1bg.png");
+	width:1440px;
+	height:807px;
+}
+
+.body1title{
+	font-size:65pt;
+	margin-left:90px;
+	margin-top:160px;
+	color:#484f5b;
+	position:absolute;
+}
+
+.body1paragraph{
+	margin-left:95px;
+	margin-top:413px;
+	font-size:18pt;
+	position:absolute;
+}
+
+.body1button{
+	float:left;
+	width:203px;
+	height:50px;
+background-color:#e6c8c3;
+	border:0px solid #e6c8c3;
+	position:relative;
+	margin-left:93px;
+	margin-top:582px;
+}
+
+/* Body2 Section Kodları */
+.body2{
+	background-color:#ffffff;
+	width:1440px;
+	height:480px;
+	
+}
+
+.p1{
+float: left;
+	margin-left:175px;
+	margin-top:87px;
+	
+	
+	
+}
+.p2{
+	float:left;
+	margin-left:150px;
+	margin-top:65px;
+	positon:relative;
+}
+
+
+.p3{
+	float:left;
+	margin-left:165px;
+	margin-top:40px;
+	
+}
+
+/* Body3 Section Kodları */
+.body3{
+	background-image:url("img/body3.png");
+	width:1440px;
+	height:630px;
+}
+
+.body3image{
+	float:right;
+	margin-top:84px;
+	margin-right:90px;
+}
+.body3title{
+	margin-top:131px;
+	margin-left:87px;
+	color:#484f5b;
+	font-size:50pt;
+	position: absolute;
+}
+
+.body3paragraph{
+	margin-left:95px;
+	margin-top:325px;
+	font-size:15pt;
+	position:absolute;
+}
+.body3button{
+	float:left;
+	width:203px;
+	height:50px;
+background-color:#e6c8c3;
+	border:0px solid #e6c8c3;
+	position:relative;
+	margin-left:93px;
+	margin-top:425px;
+	color:#484f5b;
+}
+/* Body4 Section Komutları */
+
+.body4{
+	background-image:url("img/body4bg.png");
+	width:1440px;
+	height:610px;
+}
+
+.body4image{
+	float:left;
+	position:relative;
+	
+}
+.body4title{
+	float:right;
+	margin-left:780px;
+	margin-top:130px;
+	font-size:35pt;
+	color:#484f5b;
+	position:absolute;
+}
+
+.body4paragraph{
+	float:right;
+	margin-left:780px;
+	margin-top:280px;
+	font-size:15pt;
+	color:#484f5b;
+	position:absolute;
+	
+}
+
+.body4button{
+	float:right;
+	width:203px;
+	height:50px;
+	background-color:#e6c8c3;
+	border:0px solid #e6c8c3;
+	position:relative;
+	margin-right:455px;
+	margin-top:-200px;
+	color:#484f5b;
+}
+
+/* Body5 Section Kodları*/
+.body5{
+	background-image:url("img/body5.png");
+	width:1440px;
+	height:955px;
+}
+
+.body5title{
+	margin-top:95px;
+	margin-left:627px;
+	font-size:50pt;
+	color:#484f5b;
+	position:absolute;
+	
+}
+
+.body5paragraph{
+	position:absolute;
+	margin-top:195px;
+	margin-left:300px;
+	font-size:18pt;
+	
+}
+.gtitle{
+	font-size:22pt;
+	color:#484f5b;
+}
+
+.gparagraph{
+	font-size:16pt;
+	color:#484f5b;
+	position:absolute;
+	bottom:20px;
+	right:5px;
+	left:5px;
+}
+
+.g1{
+	background-color:#ffffff;
+	height:555px;
+	width:350;
+	margin-top:305px;
+	margin-left:92px;
+	float:left;
+	position:relative;
+}
+
+.g2{
+	background-color:#ffffff;
+	height:555px;
+	width:350;
+	margin-top:305px;
+	margin-left:103px;
+	float:left;
+	position:relative;
+}
+.g3{
+	background-color:#ffffff;
+	height:555px;
+	width:350;
+	margin-top:305px;
+	margin-left:100px;
+	float:left;
+	position:relative;
+}
+
+/* Body6 Section Kodları */
+.body6{
+	background-color:#e5ccc6;
+	width:1440px;
+	height:730px;
+	
+}
+
+.body6title{
+	float:right;
+	margin-right:315px;
+	margin-top:190px;
+	font-size:40pt;
+	color:#484f5b;
+}
+
+.body6paragraph{
+	float:right;
+	margin-right:72px;
+	font-size:18pt;
+	
+}
+
+.smb6{
+	float:right;
+	margin-top:60px;
+	margin-left:45px;
+	
+}
+.smb6l{
+	margin-right:460px;
+}
+
+.body6image{
+	margin-top:153px;
+	margin-left:94px;
+	float:left;
+}
+
+/* Body7 Section Kodları*/
+.body7{
+	background-image:url("img/body7.png");
+	width:1440px;
+	height:825px;
+	
+	
+	
+	
+	
+}
+.body7title{
+	font-size:35pt;
+	margin-top: 95px;
+	margin-left:570px;
+	color:#484f5b;
+	position:absolute;
+	
+	
+}
+
+.body7paragraph{
+	margin-left:350px;
+	margin-top:180px;
+	font-size:16pt;
+	color:#484f5b;
+	position: absolute;
+	
+	
+}
+
+.name{
+	background-color:#efefef;
+	width:938px;
+	height:61px;
+	margin-top:280px;
+	
+}
+
+.gender{
+	background-color:#efefef;
+	width:938px;
+	height:63px;
+	margin-top:34px;
+	text-align: left;
+	
+	
+}
+.message{
+	width:938px;
+	height:145px;
+	margin-top:37px;
+	background-color:#efefef;
+	text-align:start;
+	
+}
+
+.smbutton{
+	background-color:#e6c8c3;
+	height:50px;
+	width:202px;
+	margin-top:55px;
+	font-size:10pt;
+	border:0px none;
+	
+}
+/* Footer Kodları */
+
+.footer{
+	height:323px;
+	width:1440px;
+	background-color:#484f5b;
+	bottom:0px;
+	color:#ffffff;
+	
+}
+.footer1{
+	margin-left:170px;
+	float:left;
+	width: auto;
+	display:block;
+	
+}
+
+#cn{
+	
+	margin-top:70px;
+	
+	
+}
+
+#adress{
+	margin-top:43px;
+	
+}
+
+#domain{
+	
+}
+.footer2{
+	margin-left:445px;
+	float:left;
+	width: auto;
+	position:absolute;
+}
+
+.footer2menu{
+	margin-top:70px;
+	list-style:none;
+	display: block;
+	
+}
+.footer2menue{
+	margin-top:4px;
+	
+}
+
+.footer3{
+	margin-left:595px;
+	float:left;
+	width: auto;
+	position:absolute;
+	
+}
+.footer3menu{
+	
+	list-style:none;
+	display: block;
+	margin-top:70px;
+}
+
+.footer3menue{
+	margin-top:4px;
+	
+}
+
+.footer4{
+	margin-left:460px;
+	float:left;
+	display: block;
+	width: auto;
+}
+.footer4menu{
+	margin-top:70px;
+	list-style:none;
+	
+	
+}
+
+.footer4menue{
+	margin-top:4px;
+	
+}
+
+.footerlogo{
+	margin-top:50px;
+	margin-right:120px;
+	position:absolute;
+	
+}
+
+.atif{
+	position:absolute;
+	margin-top:140px;
+	margin-left:1050px;
+}
+
+.smf{
+	margin-left:26px;
+	margin-top:190px;
+	
+	
+}
+.smfr{
+	
+	margin-right:150px;
+}
+
